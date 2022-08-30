@@ -1,1 +1,1 @@
-This one is for the Repo-session
+THow to be up to date in git
